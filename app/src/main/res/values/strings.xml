@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Jet Github</string>
+
+    <string name="icon_search">Search Icon</string>
+    <string name="icon_favorite">Favorite Icon</string>
+    <string name="icon_setting">Setting Icon</string>
+    <string name="icon_close">Close Icon</string>
+    <string name="icon_empty">Empty Icon</string>
+    <string name="icon_error">Error Icon</string>
+    <string name="icon_back">Back Icon</string>
+    <string name="icon_delete">Delete Icon</string>
+    <string name="icon_name">Name Icon</string>
+    <string name="icon_company">Company Icon</string>
+    <string name="search_placeholder">Search</string>
+    <string name="favorite">Favorite</string>
+    <string name="add_favorite">Success Add to Favorite</string>
+    <string name="remove_favorite">Success Remove to Favorite</string>
+    <string name="no_data_placeholder">-</string>
+    <string name="user_image">User Image</string>
+    <string name="broken_image">Broken Image</string>
+    <string name="empty_user">User Not Found</string>
+    <string name="no_favorite">Favorite User Not Found</string>
+    <string name="error_user">Something Wrong, Try again later!</string>
+    <string name="item_deleted">Success Deleted from favorite</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ok">OK</string>
+    <string name="undo">Undo</string>
+    <string name="delete_all_title">Delete All Favorite??</string>
+    <string name="delete_all_message">This Action can\'t be undo…</string>
+    <string name="dark_mode">Enable Dark Mode</string>
+    <string name="dark_mode_text">Dark mode</string>
+</resources>
