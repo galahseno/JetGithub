@@ -20,7 +20,7 @@ android {
         vectorDrawables {
             useSupportLibrary true
         }
-        buildConfigField("String", "GITHUB_TOKEN", '"Authorization: token 96a29abc65c70aab11ec93070658c406e8621019"')
+        buildConfigField("String", "GITHUB_TOKEN", '"Authorization: token <token>"')
     }
 
     buildTypes {
